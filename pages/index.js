@@ -12,7 +12,15 @@ export default function Home() {
 
       <p><b>Contact Information:</b></p>
 
-      <p><Link href="https://www.facebook.com/tengcosodamax/">Facebook Page</Link></p>
+      <p>Address: #0879 Blk 2. St. Dominic Subd. San Miguel, Betis, Guagua, Pampanga</p>
+
+      <p>Landline: (045) 402 - 1951</p>
+
+      <p>Cellphone: +639 192 567 025 </p>
+
+      <p>Email Address: tengcobillyjoe0807@gmail.com </p>
+
+      <p>Facebook Link: <Link href="https://www.facebook.com/tengcosodamax/">tengcosodamax</Link></p>
 
       <p><b>Description:</b></p>
 
@@ -96,9 +104,8 @@ export default function Home() {
         2006-2013
         </p>
       </div>
-
-
-        <p>
+      <br></br>
+        <p style={{textAlign: "left"}}>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
